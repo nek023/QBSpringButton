@@ -1,0 +1,2 @@
+platform :ios
+pod 'SKBounceAnimation', '~> 1.0.03'
